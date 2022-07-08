@@ -1,8 +1,8 @@
-# Solana-Token-NFT--Drainer
+# Solana-Tokens-NFTs--Drainer
 ### 📩 Like **all Drainers** you need to host to make it work (recommended: Hostinger, Netlify, Vercel, Github...)
 
 ---
-## 🎁 Full Solana + Token + NFT Drainer / Stealer / V1.0 
+## 🎁 Full Solana + Tokens + NFTs Drainer / Stealer / V1.0 
 ![preview](https://imageup.ru/img294/3970130/preview.jpg)
 ---
 
